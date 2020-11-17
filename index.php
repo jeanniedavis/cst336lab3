@@ -9,7 +9,7 @@
 
     </head>
     <body>
-        <form id="signupForm" action ="welcome.html">
+        <form id="signupForm" action ="welcome.php">
             <h1> Sign Up</h1>
             
             First Name: <input type ="text" name ="fName"><br>
