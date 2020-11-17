@@ -1,0 +1,33 @@
+body{
+    background: #FFB6C1;
+}
+header,main,nav,footer {
+    text-align:center;
+}
+
+.header { 
+    width:50%;
+    height: 1px;
+    background-color: #000;
+    border: none;
+}
+.footer{
+    height: 1px;
+    background-color: #000;
+    border: none;
+}
+#signupForm {
+    text-align:center;
+}
+#city {
+    padding-right: 153px;
+}
+#latitude {
+    padding-right: 153px;
+}
+#longitude {
+    padding-right: 153px;
+}
+#county {
+    padding-right: 153px;
+}
